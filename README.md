@@ -1,2 +1,2 @@
 # Sudoku-Game
- A 5x5 text-based sudoku game written in Java
+ A 9x9 text-based sudoku game written in Java
